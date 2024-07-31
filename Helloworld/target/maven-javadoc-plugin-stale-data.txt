@@ -1,0 +1,50 @@
+@options
+@packages
+@argfile
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/RYZEN/Documents/NetBeansProjects/Helloworld/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/RYZEN/Documents/NetBeansProjects/Helloworld/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Helloworld 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/RYZEN/Documents/NetBeansProjects/Helloworld/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Helloworld 1.0-SNAPSHOT API'
+miClase
+'C:/Users/RYZEN/Documents/NetBeansProjects/Helloworld/src/main/java/miClase/Promedio.java'
+'C:/Users/RYZEN/Documents/NetBeansProjects/Helloworld/src/main/java/ProgramaPrincipal.java'
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\src\main\java\ProgramaPrincipal.java = 1655170146424
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\src\main\java = 1655170146724
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\allclasses-frame.html = 1655170593320
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\allclasses-noframe.html = 1655170593343
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\constant-values.html = 1655170593129
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\deprecated-list.html = 1655170593315
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\help-doc.html = 1655170593393
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\index-all.html = 1655170593304
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\index.html = 1655170593349
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\overview-frame.html = 1655170592998
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\overview-summary.html = 1655170593382
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\overview-tree.html = 1655170593293
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\package-frame.html = 1655170593016
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\package-list = 1655170592982
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\package-summary.html = 1655170593037
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\package-tree.html = 1655170593056
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\package-use.html = 1655170593264
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\ProgramaPrincipal.html = 1655170592503
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\script.js = 1655170593414
+C:\Users\RYZEN\Documents\NetBeansProjects\Helloworld\target\site\apidocs\stylesheet.css = 1655170593412
